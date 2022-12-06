@@ -1,0 +1,2 @@
+- [ ] Create benchmarks to calculate an average speed of the results rather than a one off
+- [ ] Auto generate the project readme.md on each push to show the benchmark results etc.

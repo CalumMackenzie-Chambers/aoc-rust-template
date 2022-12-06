@@ -1,0 +1,4 @@
+/target
+
+# Ignore data files by AOC creator request
+/data/*/*.txt
